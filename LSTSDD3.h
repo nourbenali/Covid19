@@ -1,0 +1,6 @@
+#ifndef LSTSDD3_H_INCLUDED
+#define LSTSDD3_H_INCLUDED
+#include "LSTPATIENT.h"
+
+
+#endif // LSTSDD3_H_INCLUDED

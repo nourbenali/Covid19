@@ -1,0 +1,6 @@
+#ifndef LSTSDD4_H_INCLUDED
+#define LSTSDD4_H_INCLUDED
+
+#include"LSTHOPITAL.h"
+
+#endif // LSTSDD4_H_INCLUDED

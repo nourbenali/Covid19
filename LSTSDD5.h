@@ -1,0 +1,6 @@
+#ifndef LSTSDD5_H_INCLUDED
+#define LSTSDD5_H_INCLUDED
+#include"LSTPATHOP.h"
+
+
+#endif // LSTSDD5_H_INCLUDED

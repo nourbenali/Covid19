@@ -1,0 +1,6 @@
+#ifndef ELTSDD2_H_INCLUDED
+#define ELTSDD2_H_INCLUDED
+#include "ELTPERSONNE.h"
+
+
+#endif // ELTSDD2_H_INCLUDED

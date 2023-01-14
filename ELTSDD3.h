@@ -1,0 +1,6 @@
+#ifndef ELTSDD3_H_INCLUDED
+#define ELTSDD3_H_INCLUDED
+#include "ELTPATIENT.h"
+
+
+#endif // ELTSDD3_H_INCLUDED

@@ -1,0 +1,6 @@
+#ifndef ELTSDD1_H_INCLUDED
+#define ELTSDD1_H_INCLUDED
+#include "ELTMALADIE.h"
+
+
+#endif // ELTSDD1_H_INCLUDED

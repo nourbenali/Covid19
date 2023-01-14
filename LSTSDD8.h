@@ -1,0 +1,6 @@
+#ifndef LSTSDD8_H_INCLUDED
+#define LSTSDD8_H_INCLUDED
+
+#include"LSTPERLIEU.h"
+
+#endif // LSTSDD8_H_INCLUDED
